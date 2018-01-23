@@ -1,7 +1,3 @@
 # hello-world
 
-github 1st test repository
-
-branch testing...
-
-modified readme
+readme edit
